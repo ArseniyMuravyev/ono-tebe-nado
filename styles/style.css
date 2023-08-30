@@ -285,10 +285,10 @@
   justify-content: space-around;
   gap: 50px;
   max-width: 240px;
-  list-style: none;
+  list-style: none; 
 }
 
-.footer__social-icon {
+.footer__social-link {
   display: block;
   width: 47px;
 }
